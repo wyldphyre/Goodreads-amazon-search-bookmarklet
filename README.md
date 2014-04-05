@@ -1,4 +1,4 @@
-Goodreads-amazon-search-bookmarklet
+Goodreads Amazon Search Bookmarklet
 ===================================
 
 Searches on Amazon for the title of the book you are viewing on goodreads.com
