@@ -4,7 +4,6 @@
 */
 
 javascript:(function(){
-    // todo: alert if not on a goodreads book pag
     var bookTitle = document.getElementById("bookTitle").firstChild.data;
     var firstAuthor = document.getElementsByClassName("authorName")[0].firstChild.innerHTML;
     var titleAndFirstAuthor = (bookTitle.trim() + " " + firstAuthor).replace(/\s/g, "+");
